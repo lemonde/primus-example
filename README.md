@@ -13,7 +13,7 @@ npm start
 
 ### Run server
 
-When the server is started, it exposes an UI on the port 3000 by default, you can specify a different port with the environement variable PORT.
+When the server is started, it exposes an UI on the port 3000 by default, you can specify a different port with the environment variable PORT.
 
 ```sh
 PORT=8080 npm start
