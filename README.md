@@ -1,6 +1,6 @@
 # primus-example
 
-Simple primus server / client example.
+Simple example of Primus usage.
 
 ## Run
 
