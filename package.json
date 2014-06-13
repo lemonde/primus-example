@@ -1,0 +1,24 @@
+{
+  "name": "primus-demo",
+  "version": "0.0.0",
+  "description": "Simple example of Primus usage.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemonde/primus-example.git"
+  },
+  "keywords": [
+    "primus",
+    "example"
+  ],
+  "author": "Greg Bergé <berge.greg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemonde/primus-example/issues"
+  },
+  "homepage": "https://github.com/lemonde/primus-example"
+}
