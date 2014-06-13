@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/lemonde/primus-example/issues"
   },
-  "homepage": "https://github.com/lemonde/primus-example"
+  "homepage": "https://github.com/lemonde/primus-example",
+  "dependencies": {
+    "primus": "^2.3.0",
+    "ws": "^0.4.31"
+  }
 }
